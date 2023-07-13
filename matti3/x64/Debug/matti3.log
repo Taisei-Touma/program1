@@ -1,0 +1,5 @@
+﻿  AppMain.cpp
+C:\PG\matti3\program1\matti3\AppMain.cpp(33,9): fatal  error C1083: include ファイルを開けません。'FreamControl.h':No such file or directory
+  ソース.cpp
+C:\PG\matti3\program1\matti3\ソース.cpp(6,10): fatal  error C1083: include ファイルを開けません。'FreamControl.h':No such file or directory
+  コードを生成中...
